@@ -1,0 +1,6 @@
+string=input("Enter a word:")
+rev=string[::-1]
+if string==rev:
+    print("palindrome")
+else:
+    print("No palindrome")
