@@ -1,0 +1,9 @@
+try:
+    x = 10 / 2
+    print(x)
+
+except:
+    print("Error")
+
+finally:
+    print("Program finished")
